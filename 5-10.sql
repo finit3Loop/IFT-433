@@ -1,0 +1,1 @@
+DATEDIFF(day, ExpirationDate, GetDate()) AS Solution
